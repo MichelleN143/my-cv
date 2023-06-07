@@ -49,3 +49,10 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.new-text{ 
+	color: #8020cc;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline #ffcc00;
+}
