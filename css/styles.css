@@ -14,15 +14,16 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #fe6cdc;
+	color:white;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ac8aa8;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #dc9cff;
 }
 
 /* Styles for lists in the document */
@@ -50,9 +51,3 @@ body {
 	flex-basis: 1.4em;
 }
 
-.new-text{ 
-	color: #8020cc;
-	text-align: center;
-	font-style: italic;
-	text-decoration: underline #ffcc00;
-}
